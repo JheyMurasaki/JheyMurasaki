@@ -3,7 +3,7 @@ Hello there! This is my GitHub profile 👋 <br>
 
 I'm a web and mobile developer focused on front-end, with some knowledge in back-end.
 
-Currently workin on my indie game, "Void Of Space" on Unity Engine: <br>
+Currently workin on my indie game, "Void Of Space" with Unity Engine: <br>
 ✨ https://store.steampowered.com/app/898220/Void_Of_Space/ ✨
 
 My main stacks are: <br>
