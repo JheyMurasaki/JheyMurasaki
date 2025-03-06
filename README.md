@@ -13,7 +13,7 @@ Styling: <br>
 `  Tailwind  ` `  Bootstrap  ` `  CSS  ` `  SCSS  ` `  SASS  ` 
 
 Other stacks: <br>
-`  Svelte  ` ` Flutter  ` ` Ionic  ` `  Express  `
+`  Svelte  ` `  Flutter  ` `  Ionic  ` `  Express  `
 
 <!--
 **JheyMurasaki/JheyMurasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
