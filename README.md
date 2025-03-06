@@ -1,4 +1,13 @@
-## Hi there 👋
+Hello there! This is my GitHub profile. 👋 <br>
+~ I mainly work on personal projects here. ~
+
+I'm a web developer focused on front-end, with some knowledge of back-end.
+
+My main stacks are:
+[ Unity ] [ C# ] [ React ] [ React Native ] [ Nuxt ] [ Angular ] [ Vue ] [ Next ] [ Laravel ]
+
+Currently workin on my indie game, "Void Of Space" using the Unity Engine: <br>
+✨ https://store.steampowered.com/app/898220/Void_Of_Space/ ✨
 
 <!--
 **JheyMurasaki/JheyMurasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
