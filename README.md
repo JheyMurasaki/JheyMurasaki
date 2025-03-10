@@ -12,17 +12,16 @@ My main stacks are: <br>
 Other stacks: <br>
 `  Svelte  ` `  Flutter  ` `  Ionic  ` `  Express  ` `  Wordpress  `
 
-Styling: <br>
-`  Tailwind  ` `  Bootstrap  `
-
 Languages: <br>
 `  C#  ` `  HTML5  ` `  CSS3  ` `  SCSS  ` `  SASS  ` `  PHP  ` `  JavaScript  ` `  TypeScript  ` `  Python  ` 
 
 Tools: <br>
-`  GIT  ` `  Docker  ` `  WSL  `
+`  GIT  ` `  Docker  ` `  WSL  ` `  Tailwind  ` `  Bootstrap  `
 
 OS: <br>
 `  Ubuntu  ` `  Mint  ` `  Windows  `
+
+
 <!--
 **JheyMurasaki/JheyMurasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
