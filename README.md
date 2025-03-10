@@ -16,7 +16,7 @@ Languages: <br>
 `  C#  ` `  HTML5  ` `  CSS3  ` `  SCSS  ` `  SASS  ` `  PHP  ` `  JavaScript  ` `  TypeScript  ` `  Python  ` 
 
 Tools: <br>
-`  GIT  ` `  Docker  ` `  WSL  ` `  Tailwind  ` `  Bootstrap  `
+`  GIT  ` `  Docker  ` `  WSL  ` `  Tailwind  ` `  Bootstrap  ` `  RxJS  ` `  Redux  ` `  Zustand  ` `  Postman   ` `  MySQL  ` `  Figma  `
 
 OS: <br>
 `  Ubuntu  ` `  Mint  ` `  Windows  `
