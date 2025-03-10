@@ -20,6 +20,9 @@ Languages: <br>
 
 Tools: <br>
 `  GIT  ` `  Docker  ` `  WSL  `
+
+OS: <br>
+`  Ubuntu  ` `  Mint  ` `  Windows  `
 <!--
 **JheyMurasaki/JheyMurasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
