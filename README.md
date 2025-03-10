@@ -10,7 +10,7 @@ My main stacks are: <br>
 `  Unity  ` `  C#  ` `  React  `  `  Angular  ` `  Vue  `  `  React Native  ` `  Nuxt  ` `  Next  ` `  Laravel  `
 
 Styling: <br>
-`  Tailwind  ` `  Bootstrap  ` `  CSS  ` `  SCSS  ` `  SASS  ` 
+`  Tailwind  ` `  Bootstrap  ` `  SCSS  ` `  SASS  ` 
 
 Other stacks: <br>
 `  Svelte  ` `  Flutter  ` `  Ionic  ` `  Express  `
