@@ -7,14 +7,19 @@ Currently workin on my indie game, "Void Of Space" with Unity Engine: <br>
 ✨ https://store.steampowered.com/app/898220/Void_Of_Space/ ✨
 
 My main stacks are: <br>
-`  Unity  ` `  C#  ` `  React  `  `  Angular  ` `  Vue  `  `  React Native  ` `  Nuxt  ` `  Next  ` `  Laravel  `
+`  Unity  ` `  React  `  `  Angular  ` `  Vue  `  `  React-Native  ` `  Nuxt  ` `  Next  ` `  Laravel  `
 
 Styling: <br>
-`  Tailwind  ` `  Bootstrap  ` `  SCSS  ` `  SASS  ` 
+`  Tailwind  ` `  Bootstrap  `
 
 Other stacks: <br>
-`  Svelte  ` `  Flutter  ` `  Ionic  ` `  Express  `
+`  Svelte  ` `  Flutter  ` `  Ionic  ` `  Express  ` `  Wordpress  `
 
+Languages: <br>
+`  C#  ` `  HTML5  ` `  CSS3  ` `  SCSS  ` `  SASS  ` `  PHP  ` `  JavaScript  ` `  TypeScript  ` `  Python  ` 
+
+Tools: <br>
+`  GIT  ` `  Docker  ` `  WSL  `
 <!--
 **JheyMurasaki/JheyMurasaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
