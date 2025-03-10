@@ -9,11 +9,11 @@ Currently workin on my indie game, "Void Of Space" with Unity Engine: <br>
 My main stacks are: <br>
 `  Unity  ` `  React  `  `  Angular  ` `  Vue  `  `  React-Native  ` `  Nuxt  ` `  Next  ` `  Laravel  `
 
-Styling: <br>
-`  Tailwind  ` `  Bootstrap  `
-
 Other stacks: <br>
 `  Svelte  ` `  Flutter  ` `  Ionic  ` `  Express  ` `  Wordpress  `
+
+Styling: <br>
+`  Tailwind  ` `  Bootstrap  `
 
 Languages: <br>
 `  C#  ` `  HTML5  ` `  CSS3  ` `  SCSS  ` `  SASS  ` `  PHP  ` `  JavaScript  ` `  TypeScript  ` `  Python  ` 
