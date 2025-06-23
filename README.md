@@ -1,7 +1,7 @@
 Hello there! This is my GitHub profile 👋 <br>
 *I mainly work on personal projects here.*
 
-I'm a web and mobile developer focused on front-end, with some knowledge in back-end.
+I'm a web, mobile and game developer focused on front-end, with some knowledge in back-end.
 
 Currently workin on my indie game, "Void Of Space" with Unity Engine: <br>
 ✨ https://store.steampowered.com/app/898220/Void_Of_Space/ ✨
